@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+div{
+    color: purple;
+    background-color: black;
+    width: 700px;
+    height: 500px;
+}
